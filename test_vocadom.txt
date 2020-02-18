@@ -1,0 +1,34 @@
+Pour un test avec le modèle de langue ODMR ou le lang_v1 de zied et des modèles acoustiques nnet3
+
+dossier travail: 
+
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW
+
+
+tous les fichiers de conf/ + ivector_extractor:
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp_online2/conf
+(changer les chemins)
+
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp_online2/ivector_extractor
+(changer les chemins)
+
+le final.mdl:
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp_online2/final.mdl
+
+
+## -------------------- POUR UN TEST AVEC LE MODELE DE LANGUE OBJET DE MES RECHERCHES ----------------
+
+le graph HCLG.fst:
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp_cirdox_essai/graph/HCLG.fst
+
+le words.txt:
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp_cirdox_essai/graph/words.txt
+
+
+## -------------------- POUR UN TEST AVEC LE MODELE DE LANGUE DE ZIED (lang_v1) -------------------
+
+le graph HCLG.fst:
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp/graph/HCLG.fst
+
+le words.txt:
+/home/getalp/evains/CDD_2019-2020/2019_nov_20_chainModel_KALDI.FR_IPA_NEW/exp/chain/tdnn_6z_ceos_sp/graph/words.txt

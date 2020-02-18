@@ -1,0 +1,12 @@
+local_ln/
+local/
+rnnlm/
+scripts/
+src/
+steps/
+tools/
+utils/
+data/
+conf/
+exp/
+!exp/chain/tdnn_6z_ceos_sp_online2/decode*/
